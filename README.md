@@ -19,7 +19,7 @@ End-to-end ML pipeline for forecasting CO concentrations as an indicator of air 
   * Feature engineering
       * Feature scaling using StandardScaler and MinMaxScaler
   * Time-series forecasting using Prophet
-  * Correlation heatmap analysis
+  * Correlation analysis
       * Pearson correlation analysis
       * Correlation heatmap
       * Random Forest-based feature importance analysis
