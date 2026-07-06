@@ -1,0 +1,2 @@
+# Air-Quality-Analysis-based-on-Carbon-Monoxide-Forecasting-Using-Machine-Learning
+End-to-end ML pipeline for forecasting CO concentrations as an indicator of air quality using the UCI Air Quality dataset. Includes EDA, data preprocessing, feature engineering, scaling, Prophet time-series forecasting, and model refinement using C6H6 as an external regressor selected via correlation and Random Forest feature importance analysis
