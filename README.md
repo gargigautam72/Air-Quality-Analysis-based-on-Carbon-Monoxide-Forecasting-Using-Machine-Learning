@@ -15,7 +15,7 @@ End-to-end ML pipeline for forecasting CO concentrations as an indicator of air 
 
   ### Key Techniques & Methods used:
   * Exploratory Data Analysis (EDA)
-  * Data preprocessing and missing/invalid value imputation
+  * Data preprocessing- including missing/invalid value imputation
   * Feature engineering
       * Feature scaling using StandardScaler and MinMaxScaler
   * Time-series forecasting using Prophet
